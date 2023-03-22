@@ -1,0 +1,12 @@
+# Requirements
+
+## Create a requirements.txt file
+
+1. Open terminal
+2. Activate your virtual environment:
+| For pure python | For conda |
+| --------------- | --------- |
+| PS C:\> <venv>\Scripts\Activate.ps1 | conda activate <venv> |
+3. [pip freeze](https://pip.pypa.io/en/stable/user_guide/#requirements-files) > requirements.txt Set you free to remove or add dependencies.
+
+[More About python environments](https://docs.python.org/3/library/venv.html)
